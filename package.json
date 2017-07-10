@@ -37,6 +37,6 @@
   ],
   "dependencies": {
     "bluebird": "^3.3.4",
-    "rollup": "^0.x"
+    "rollup": "0.43.0"
   }
 }
